@@ -25,27 +25,27 @@ You can also induce the model to play the game without the initial prompt by sim
 
 - **Concrete nouns combined with abstract adjectives**  often produce imaginative and charming results.
   - Examples: 
-  "young * mattress = crib"
-  "friendly * flower pot = friendly planter"
-  "happy * chair = cozy armchair"
-  "lonely * mailbox = forgotten mailbox"
+  "young * mattress = crib", 
+  "friendly * flower pot = friendly planter", 
+  "happy * chair = cozy armchair", 
+  "lonely * mailbox = forgotten mailbox" .
 
 - **Abstract concepts combined together**  yield insightful, intellectually stimulating outcomes.
   - Examples: 
-  "probability * consequence = risk"
-  "desire * limitation = restraint"
-  "curiosity * uncertainty = exploration"
-  "sufficient * information = knowledge"
+  "probability * consequence = risk", 
+  "desire * limitation = restraint", 
+  "curiosity * uncertainty = exploration", 
+  "sufficient * information = knowledge" .
 
 - **Two concrete nouns combined** can result in playful, surprising concepts.
   - Examples: 
-  "ocean * sofa = waterbed"
-  "clock * book = planner"
+  "ocean * sofa = waterbed", 
+  "clock * book = planner" .
 
 - **A concrete noun combined with an activity or verb** often produces vivid imagery.
   - Examples: 
-  "storm * dance = whirlwind"
-  "fire * whisper = ember"
+  "storm * dance = whirlwind", 
+  "fire * whisper = ember" .
 
 - It reveals how language models form relationships and associations, showcasing their ability to interpret context and nuance.
 
@@ -53,7 +53,7 @@ You can also induce the model to play the game without the initial prompt by sim
 
 - **Solve for one of the word products** to understand how a concept comes together:
 
-language * ? = understanding
+language * ? = understanding. 
 answer = "interpretation"
 
 - **Combine more than two concepts together** for a further compounded meaning:
